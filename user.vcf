@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Kilgore;Dave;;;
-FN: Dave Kilgore
+N:Voisard;Doug;;;
+FN: Doug Voisard
 ORG:Dayton Coating Technologies;
-TITLE:Sales Coordinator
-EMAIL;type=INTERNET;type=WORK;type=pref:dkilgore@webctg.com
-TEL;type=WORK;type=VOICE:+1 937 260 0024  
+TITLE:Vice President
+EMAIL;type=INTERNET;type=WORK;type=pref:dvoisard@webdct.com
+TEL;type=WORK;type=VOICE:+1 937 726 3837  
 item1.ADR;type=WORK;type=pref:;;1926 E Siebenthaler\nDayton\, Ohio, 45414;United States of America 
 item1.X-ABADR:sg
 item2.URL;type=pref:toolgrindcoat.com
