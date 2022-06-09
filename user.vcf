@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Voisard;Doug;;;
-FN: Doug Voisard
+N:Siskovic;John;;;
+FN: John Siskovic
 ORG:Dayton Coating Technologies;
-TITLE:Vice President
-EMAIL;type=INTERNET;type=WORK;type=pref:dvoisard@webdct.com
-TEL;type=WORK;type=VOICE:+1 937 726 3837  
+TITLE:Sales Representative
+EMAIL;type=INTERNET;type=WORK;type=pref:johnsiskovic@gmail.com
+TEL;type=WORK;type=VOICE:+1 216 408 4018 
 item1.ADR;type=WORK;type=pref:;;1926 E Siebenthaler\nDayton\, Ohio, 45414;United States of America 
 item1.X-ABADR:sg
 item2.URL;type=pref:toolgrindcoat.com
